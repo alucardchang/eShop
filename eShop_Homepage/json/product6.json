@@ -1,0 +1,144 @@
+[
+  [
+    {
+      "id": 1,
+      "title": "【中新国际】赤荔凤冠",
+      "price": 500.00,
+      "img": "img/product6/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "正宗进口短身元宝凤凰， 带防伪芯片",
+      "price": 550.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product6/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "红鳍银板龙鱼配鱼",
+      "price": 38.00,
+      "time": "2017-01-25",
+      "hot": 568,
+      "img": "img/product6/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "广州元山 熊猫贵妃龙鲤",
+      "price": 3800.00,
+      "time": "2016-12-30",
+      "hot": 20000,
+      "img": "img/product6/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "泰子龍－白子红眼女王 150406",
+      "price": 128,
+      "time": "2016-01-30",
+      "hot": 1032654,
+      "img": "img/product6/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "火红蝴蝶龙鲤",
+      "price": 580,
+      "time": "2018-01-01",
+      "hot": 1,
+      "img": "img/product6/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "【铭渔轩水族】野生蓝帆眼斑鱼20公分",
+      "price": 480,
+      "time": "2017-02-19",
+      "hot": 400,
+      "img": "img/product6/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "5A级白金火箭",
+      "price": 12000,
+      "time": "2017-01-25",
+      "hot": 240,
+      "img": "img/product6/8.jpg"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "title": "【藏龙】35CM野生巴西亚",
+      "price": 1500.00,
+      "time": "2017-03-15",
+      "hot": 198,
+      "img": "img/product6/21.jpg"
+    },
+    {
+      "id": 2,
+      "title": "出售35-40CM野生F1黄金巴西亚",
+      "price": 1500.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product6/22.jpg"
+    },
+    {
+      "id": 3,
+      "title": "【花地湾水族贸易】观赏鱼 热带鱼 古代鱼 长身肺鱼/芝麻肺鱼",
+      "price": 300.00,
+      "time": "2017-01-25",
+      "hot": 568,
+      "img": "img/product6/23.jpg"
+    },
+    {
+      "id": 4,
+      "title": "【花地湾水族贸易】观赏鱼 热带鱼 汽水域类 隆背金刚/西非战神",
+      "price": 230.00,
+      "time": "2016-12-30",
+      "hot": 20000,
+      "img": "img/product6/24.jpg"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "title": "【枫之谷】野生萨伊蓝17-18",
+      "price": 950.00,
+      "time": "2017-03-15",
+      "hot": 198,
+      "img": "img/product6/31.jpg"
+    },
+    {
+      "id": 2,
+      "title": "【枫之谷】野生黄金虎（成对，母鱼6-8公鱼8-11）",
+      "price": 550.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product6/32.jpg"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "title": "至尊龙 747鸭嘴鱼",
+      "price": 1000.00,
+      "time": "2017-03-15",
+      "hot": 198,
+      "img": "img/product6/41.jpg"
+    },
+    {
+      "id": 2,
+      "title": "至尊龙 月光鸭嘴鱼苗",
+      "price": 250.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product6/42.jpg"
+    },
+    {
+      "id": 3,
+      "title": "台湾蝴蝶龙鲤全系列 10cm~60cm",
+      "price": 80.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product6/43.jpg"
+    }
+  ]
+]

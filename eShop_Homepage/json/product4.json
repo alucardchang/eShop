@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "id": 1,
+      "title": "短身爆头鸿运当头，大亚成体，尺寸11-12厘米",
+      "price": 350.00,
+      "time": "2017-03-15",
+      "hot": 198,
+      "img": "img/product4/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "净版艳红鸿运当头，大亚成体，尺寸11-12厘米",
+      "price": 350.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product4/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "精品拉线火凤凰，亚成体，尺寸8-10厘米",
+      "price": 300.00,
+      "time": "2017-01-25",
+      "hot": 568,
+      "img": "img/product4/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "精品满银罗汉，亚成体，尺寸10厘米",
+      "price": 350.00,
+      "time": "2016-12-30",
+      "hot": 20000,
+      "img": "img/product4/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "精品红德萨斯，亚成体，尺寸8-9厘米",
+      "price": 580,
+      "time": "2016-01-30",
+      "hot": 1032654,
+      "img": "img/product4/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "起头罗汉鸿运马骝",
+      "price": 298,
+      "time": "2018-01-01",
+      "hot": 1,
+      "img": "img/product4/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "【大连罗汉宫】小金花，红底细拉线，水头，尺寸9公分",
+      "price": 750,
+      "time": "2017-02-19",
+      "hot": 400,
+      "img": "img/product4/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "精选泰金苗",
+      "price": 138,
+      "time": "2017-01-25",
+      "hot": 240,
+      "img": "img/product4/8.jpg"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "title": "珍珠极品",
+      "price": 3000.00,
+      "time": "2017-03-15",
+      "hot": 198,
+      "img": "img/product4/21.jpg"
+    },
+    {
+      "id": 2,
+      "title": "爆头",
+      "price": 288.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product4/22.jpg"
+    },
+    {
+      "id": 3,
+      "title": "爆头",
+      "price": 588.00,
+      "time": "2017-02-08",
+      "hot": 25,
+      "img": "img/product4/23.jpg"
+    }
+  ]
+]

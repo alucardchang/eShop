@@ -1,0 +1,35 @@
+[
+  {
+    "innerContent": "<ul class='menuList'><span>金龙鱼</span>
+    <span>></span>
+    <li>金头</li>
+    <li>过背</li>
+    <li>高背</li>
+    <li>b过</li>
+    </ul>"
+  },
+  {
+    "id": 2,
+    "img": "img/banner2.jpg",
+    "desc": "梦想起飞从选择珠峰培训开始",
+    "link": "http://www.zhufengpeixun.cn/"
+  },
+  {
+    "id": 3,
+    "img": "img/banner3.jpg",
+    "desc": "把握未来，掌握先机",
+    "link": "http://www.zhufengpeixun.cn/"
+  },
+  {
+    "id": 4,
+    "img": "img/banner4.jpg",
+    "desc": "先学习，后交费，学不好，不收费",
+    "link": "http://www.zhufengpeixun.cn/"
+  },
+  {
+    "id": 5,
+    "img": "img/banner5.jpg",
+    "desc": "先学习，后交费，学不好，不收费",
+    "link": "http://www.zhufengpeixun.cn/"
+  }
+]
